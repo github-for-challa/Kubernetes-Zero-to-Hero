@@ -44,7 +44,7 @@ chmod +x kops-linux-amd64
 sudo mv kops-linux-amd64 /usr/local/bin/kops
 ```
 
-### Provide the below permissions to your IAM user. If you are using the admin user, the below permissions are available by default
+### Provide the below permissions to your IAM user. If you are using the admin user, the below permissions are available by default( instead of iam user u can also directly use " root user " acces keys)
 
 1. AmazonEC2FullAccess
 2. AmazonS3FullAccess
