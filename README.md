@@ -9,7 +9,7 @@ Dependencies required
 
 1. Python3
 2. AWS CLI
-3. kubectl
+3. kubectl(not mandate)
 
 ###  Install dependencies
 
